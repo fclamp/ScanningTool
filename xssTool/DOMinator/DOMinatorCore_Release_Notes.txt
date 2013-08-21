@@ -1,0 +1,13 @@
+Name:    DOMinator Core 
+Version: 0.9.6
+Company: Minded Security Srl.
+Author: Stefano Di Paola (stefano.dipaola@mindedsecurity.com)
+
+This version of DOMinator Core is based on Mozilla Firefox 8.0
+DOMinator Core is released under Mozilla Public License except 
+for the Add-Ons which are to be considered under their specific 
+license.
+DOMinator Core sources can be downloaded from
+http://github.com/wisec/DOMinator
+
+////////////////////////////////////////////////////
